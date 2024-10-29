@@ -24,6 +24,7 @@ I am a web developer. I enjoy working, learning, and collaborating with my colle
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Node](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Expess-black?style=flat-square&logo=express)
+![Nestjs](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
